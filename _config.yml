@@ -71,9 +71,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en" # false (default), "google", "google-universal", "custom"
+  provider               :  "google"
   google:
-    tracking_id          :
+    tracking_id          :  UA-104333405-1
 
 
 # Site Author
@@ -83,7 +83,7 @@ author:
   bio              : "Lead Scientific Programmer at the Human Genome Sequencing Center at Baylor College of Medicine."
   location         : "1 Baylor Plaza, Houston, TX 77030"
   employer         : "Human Genome Sequencing Center "
-  googlescholar    : "KNZTJ40AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en"
   email            : "fritz.sedlazeck@bcm.edu"
   uri              :
   bitbucket        :
