@@ -14,7 +14,7 @@ My research focuses on the development of scalable algorithms to assess the vari
 
 Over my young career as a scientist I followed a clear path to investigate genomic variability starting with SNPs and focusing over the last 5 years on structural variations. I have successfully co supervised 5 students, initiated successful international collaborations as well as lead three projects resulting in last author publications. Thus, I have the skills, expertise, training and motivation necessary to carry out the proposed research project. 
 
-# Recruting
+# Recruiting
 If you want to join a young but aspiring lab please check out [Apply](apply/){: .btn .btn--success}.   
 I welcome applications for a Computational Biology PostDocs, who is motivated and interested in the dynamics of genomes to improve our understanding of SVs. We benefit from a thrilling environment here at the Human Genome Sequencing Center at Baylor College of Medicine.
 
