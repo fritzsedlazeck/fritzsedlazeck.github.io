@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Adenosine deaminases that act on RNA induce reproducible changes in abundance and sequence of embryonic miRNAs"
 collection: publications
 permalink: /publication/2014-08-29-ADAR2 induces reproducible changes in sequence and abundance of mature microRNAs in the mouse brain-number-7

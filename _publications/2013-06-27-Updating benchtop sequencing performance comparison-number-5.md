@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Updating benchtop sequencing performance comparison"
 collection: publications
 permalink: /publication/2013-06-27-Updating benchtop sequencing performance comparison-number-5

@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Advanced Methylome Analysis after Bisulfite Deep Sequencing: an Example in Arabidopsis"
 collection: publications
 permalink: /publication/2012-07-20-Advanced Methylome Analysis after Bisulfite Deep Sequencing an Example in Arabidopsis-number-3

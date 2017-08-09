@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Adenosine deaminases that act on RNA induce reproducible changes in abundance and sequence of embryonic miRNAs"
 collection: publications
 permalink: /publication/2012-02-06-Adenosine deaminases that act on RNA induce reproducible changes in abundance and sequence of embryonic miRNAs-number-2

@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Decreased expression of endogenous feline leukemia virus in cat lymphomas: a case control study"
 collection: publications
 permalink: /publication/2015-04-10-Decreased expression of endogenous feline leukemia virus in cat lymphomas a case control study-number-8

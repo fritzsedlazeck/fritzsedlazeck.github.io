@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Phased diploid genome assembly with single-molecule real-time sequencing"
 collection: publications
 permalink: /publication/2016-10-17-Phased diploid genome assembly with single-molecule real-time sequencing-number-12

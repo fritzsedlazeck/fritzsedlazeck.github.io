@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "DangerTrack: A scoring system to detect difficult-to-assess regions"
 collection: publications
 permalink: /publication/2017-04-07-DangerTrack A scoring system to detect difficult-to-assess regions-number-20

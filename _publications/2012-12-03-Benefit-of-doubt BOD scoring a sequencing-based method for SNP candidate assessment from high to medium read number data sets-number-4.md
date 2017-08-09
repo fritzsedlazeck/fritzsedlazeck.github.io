@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Benefit-of-doubt (BOD) scoring: a sequencing-based method for SNP candidate assessment from high to medium read number data sets"
 collection: publications
 permalink: /publication/2012-12-03-Benefit-of-doubt BOD scoring a sequencing-based method for SNP candidate assessment from high to medium read number data sets-number-4

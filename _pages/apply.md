@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 layout: archive
 title: "Applying to our lab"
 permalink: /apply/

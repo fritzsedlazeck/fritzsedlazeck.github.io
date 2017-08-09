@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Chromosomal- Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding"
 collection: publications
 permalink: /publication/2016-04-15-Chromosomal- Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding-number-12

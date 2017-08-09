@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 permalink: /
 title: "Welcome to my lab homepage"
 excerpt: "About my group"

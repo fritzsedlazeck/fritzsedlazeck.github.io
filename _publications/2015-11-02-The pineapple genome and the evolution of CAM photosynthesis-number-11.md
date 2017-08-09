@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "The pineapple genome and the evolution of CAM photosynthesis"
 collection: publications
 permalink: /publication/2015-11-02-The pineapple genome and the evolution of CAM photosynthesis-number-11

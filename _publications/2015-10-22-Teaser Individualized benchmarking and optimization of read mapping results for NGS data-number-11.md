@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Teaser: Individualized benchmarking and optimization of read mapping results for NGS data"
 collection: publications
 permalink: /publication/2015-10-22-Teaser Individualized benchmarking and optimization of read mapping results for NGS data-number-11

@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "MASon: Million Alignments In Seconds - A Platform Independent Pairwise Sequence Alignment Library for Next Generation Sequencing Data"
 collection: publications
 permalink: /publication/2012-02-01-MASon- MILLION ALIGNMENTS IN SECONDS - A Platform Independent Pairwise Sequence Alignment Library for Next Generation Sequencing Data

@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Ectodysplasin signalling genes and phenotypic evolution in sculpins (Cottus)"
 collection: publications
 permalink: /publication/2015-09-09-Ectodysplasin signalling genes and phenotypic evolution in sculpins-number-9

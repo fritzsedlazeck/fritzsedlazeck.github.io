@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "The Candida albicans Histone Acetyltransferase Hat1 Regulates Stress Resistance and Virulence via Distinct Chromatin Assembly Pathways"
 collection: publications
 permalink: /publication/2015-10-16-The Candida albicans Histone Acetyltransferase Hat1 Regulates Stress Resistance and Virulence via Distinct Chromatin Assembly Pathways-number-10

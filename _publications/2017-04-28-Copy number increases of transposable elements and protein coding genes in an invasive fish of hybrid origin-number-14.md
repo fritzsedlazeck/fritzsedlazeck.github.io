@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Copy number increases of transposable elements and protein coding genes in an invasive fish of hybrid origin"
 collection: publications
 permalink: /publication/2017-04-28-Copy number increases of transposable elements and protein coding genes in an invasive fish of hybrid origin-number-14

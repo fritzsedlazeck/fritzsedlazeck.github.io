@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  image: test2.png
+  image: test2.jpg
 ---
 
 

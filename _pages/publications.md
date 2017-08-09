@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  image: test2.png
+  image: test2.jpg
 ---
 
 {% if author.googlescholar %}

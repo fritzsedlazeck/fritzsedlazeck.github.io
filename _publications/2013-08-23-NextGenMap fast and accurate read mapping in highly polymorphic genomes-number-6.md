@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "NextGenMap: fast and accurate read mapping in highly polymorphic genomes"
 collection: publications
 permalink: /publication/2013-08-23-NextGenMap fast and accurate read mapping in highly polymorphic genomes-number-6

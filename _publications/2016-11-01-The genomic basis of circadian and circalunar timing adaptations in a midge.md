@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "The genomic basis of circadian and circalunar timing adaptations in a midge"
 collection: publications
 permalink: /publication/2016-11-01-The genomic basis of circadian and circalunar timing adaptations in a midge

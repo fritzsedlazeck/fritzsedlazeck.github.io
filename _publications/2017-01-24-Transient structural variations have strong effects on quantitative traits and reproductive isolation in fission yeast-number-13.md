@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "Transient structural variations have strong effects on quantitative traits and reproductive isolation in fission yeast"
 collection: publications
 permalink: /publication/2017-01-24-Transient structural variations have strong effects on quantitative traits and reproductive isolation in fission yeast-number-13

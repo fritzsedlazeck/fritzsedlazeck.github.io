@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.png
+  image: test2.jpg
 title: "GenomeScope: fast reference-free genome profiling from short reads"
 collection: publications
 permalink: /publication/2017-03-24-GenomeScope fast reference-free genome profiling from short reads-number-15
