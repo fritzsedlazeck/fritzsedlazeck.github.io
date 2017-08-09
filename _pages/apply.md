@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Computational Post-Doctoral Researchers
-Applications are invited for a 2-3 years computational postdoctoral research position in my lab at Human Genomes Sequencing Center at Baylor College of Medicine. The researched will develop novel methods for large scale DNA-seq, RNA-Seq and other omics data related to human, but also other organisms. Potential projects include SVs detection, SVs impact estimation and population scale research.
+Applications are invited for a computational postdoctoral research position in my lab at Human Genomes Sequencing Center at Baylor College of Medicine (Houston, Texas). The researcher will develop novel methods for large scale DNA-seq, RNA-Seq and other omics data related to human, but also other organisms. Potential projects include SVs detection, SVs impact estimation and population scale research.
 
 <ins>Ideal applicant will have:</ins>
 
