@@ -1,4 +1,6 @@
 ---
+header:
+  image: test2.png
 permalink: /
 title: "Welcome"
 excerpt: "About my group"
