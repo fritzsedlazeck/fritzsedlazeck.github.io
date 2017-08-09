@@ -7,9 +7,9 @@ header:
   image: test2.jpg
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en){: .btn .btn--success}
+
 
 {% include base_path %}
 
