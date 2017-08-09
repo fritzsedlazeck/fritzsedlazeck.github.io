@@ -11,9 +11,9 @@ title                    : "Fritz J. Sedlazeck"
 title_separator          : "-"
 name                     : &name "Fritz Sedlazeck"
 description              : &description "Lead Scientific Programmer at the Human Genome Sequencing Center at Baylor College of Medicine"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fritzsedlazeck.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fritzsedlazeck/fritzsedlazeck.github.io"
 teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Fritz J Sedlazeck"
-  avatar           : "Fritz.JPG"
+  avatar           : /assets/images/Fritz.JPG
   bio              : "Lead Scientific Programmer at the Human Genome Sequencing Center at Baylor College of Medicine."
   location         : "1 Baylor Plaza, Houston, TX 77030"
   employer         : "Human Genome Sequencing Center "
@@ -185,9 +185,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-header:
-  image: test2.png
-
 # Defaults
 defaults:
   # _posts
@@ -209,8 +206,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-         image: test2.png
+
 
   # _teaching
   - scope:
@@ -221,8 +217,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      header:
-         image: test2.png
   # _publications
   - scope:
       path: ""
@@ -232,7 +226,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      image: background1.jpg
   # _research
   - scope:
       path: ""
@@ -242,7 +235,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      image: background1.jpg
   # _apply
   - scope:
       path: ""
@@ -252,7 +244,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      image: background1.jpg
   # _talks
   - scope:
       path: ""
@@ -261,7 +252,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      image: background1.jpg
   # _publications
   - scope:
       path: ""
@@ -271,7 +261,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      image: background1.jpg
 
 # Sass/SCSS
 sass:
