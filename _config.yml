@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Fritz J Sedlazeck"
-  avatar           : /images/Fritz.JPG
+  avatar           : Fritz.JPG
   bio              : "Lead Scientific Programmer at the Human Genome Sequencing Center at Baylor College of Medicine."
   location         : "1 Baylor Plaza, Houston, TX 77030"
   employer         : "Human Genome Sequencing Center "
