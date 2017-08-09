@@ -2,7 +2,7 @@
 header:
   image: test2.png
 permalink: /
-title: "Welcome"
+title: "Welcome to my lab homepage"
 excerpt: "About my group"
 author_profile: true
 redirect_from: 
