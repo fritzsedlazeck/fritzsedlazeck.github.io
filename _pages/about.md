@@ -21,6 +21,8 @@ I welcome applications for a Computational Biology PostDocs, who is motivated an
 
 # Recent News
 
++ Preprint: [Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line](http://www.biorxiv.org/content/early/2017/08/10/174938)
+
 + Preprint: [Accurate detection of complex structural variations using single molecule sequencing](http://www.biorxiv.org/content/early/2017/07/28/169557)
 
 + Published: [GenomeScope: Fast reference-free genome profiling from short reads ](https://academic.oup.com/bioinformatics/article/3089939/GenomeScope-Fast-reference-free-genome-profiling)
