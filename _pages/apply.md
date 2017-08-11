@@ -17,5 +17,5 @@ Applications are invited for a computational postdoctoral research position in m
 * Strong programming and analytical skills, including experience with next-generation sequencing data.
 * Published at least two first author papers in English and demonstrated written communication skills in English.
 
-<strong> To apply, please email me a letter of interest and current CV at fritz.sedlazeck @ bmc.edu <strong>
+<strong> To apply, please email me a letter of interest and current CV at fritz.sedlazeck @ bcm.edu <strong>
 
