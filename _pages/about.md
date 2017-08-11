@@ -2,8 +2,8 @@
 header:
   image: test2.jpg
 permalink: /
-title: "Welcome to my lab homepage"
-excerpt: "About my group"
+title: "Welcome to Sedlazeck lab homepage"
+excerpt: "News and updates"
 author_profile: true
 redirect_from: 
   - /about/
