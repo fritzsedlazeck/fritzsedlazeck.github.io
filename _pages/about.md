@@ -15,7 +15,7 @@ Over my young career as a scientist I followed a clear path to investigate genom
 
 # Recruiting
 If you want to join a young but aspiring lab please check out [Apply](apply/){: .btn .btn--success}.   
-I welcome applications for a Computational Biology PostDocs, who is motivated and interested in the dynamics of genomes to improve our understanding of SVs. We benefit from a thrilling environment here at the Human Genome Sequencing Center at Baylor College of Medicine.
+I welcome applications for a Computational Biology PostDoc, who is motivated and interested in the dynamics of genomes to improve our understanding of SVs. We benefit from a thrilling environment here at the Human Genome Sequencing Center at Baylor College of Medicine.
 
 
 # Recent News
