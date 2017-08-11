@@ -2,7 +2,7 @@
 header:
   image: test2.jpg
 permalink: /
-excerpt: "News and updates"
+excerpt: "Fritz Sedlazeck main homepage."
 author_profile: true
 redirect_from: 
   - /about/
