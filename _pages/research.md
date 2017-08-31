@@ -62,4 +62,9 @@ High throughput sequencing (HTS) has become a standard method in molecular biolo
   Tool set for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs.  
   [Github](https://github.com/fritzsedlazeck/SURVIVOR){: .btn}
 
+### [10. SURVIVOR_ant](https://github.com/fritzsedlazeck/SURVIVOR_ant) 
+  Method to annotate SVs using gff, bed or other vcf files.
+  [Github](https://github.com/fritzsedlazeck/SURVIVOR_ant){: .btn}
+
+
 {% include base_path %}
