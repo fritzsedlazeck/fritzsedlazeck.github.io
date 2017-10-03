@@ -20,6 +20,8 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 # Recent News
 
++ Preprint: [Tools for annotation and comparison of structural variation][https://f1000research.com/articles/6-1795/v1]
+
 + Preprint: [Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line](http://www.biorxiv.org/content/early/2017/08/10/174938)
 
 + Preprint: [Accurate detection of complex structural variations using single molecule sequencing](http://www.biorxiv.org/content/early/2017/07/28/169557)
