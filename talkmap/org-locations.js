@@ -20,11 +20,6 @@ var addressPoints = [
     16.3725042
   ], 
   [
-    "Cold Spring Harbour, USA", 
-    35.727392, 
-    -78.529174
-  ], 
-  [
     "Baltimore, USA", 
     39.2908816, 
     -76.610759
@@ -33,6 +28,11 @@ var addressPoints = [
     "Lausanne, Switzerland", 
     46.5218269, 
     6.6327025
+  ], 
+  [
+    "Orlando, USA", 
+    28.5421232, 
+    -81.3790475
   ], 
   [
     "Houston, USA", 
