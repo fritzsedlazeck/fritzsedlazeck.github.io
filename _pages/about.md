@@ -19,6 +19,7 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 
 # Recent News
++ Published: [LRSim: a Linked Reads Simulator generating insights for better genome partitioning](http://www.sciencedirect.com/science/article/pii/S2001037017300855)
 
 + Preprint: [Tools for annotation and comparison of structural variation](https://f1000research.com/articles/6-1795/v1)
 
@@ -28,4 +29,3 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 + Published: [GenomeScope: Fast reference-free genome profiling from short reads ](https://academic.oup.com/bioinformatics/article/3089939/GenomeScope-Fast-reference-free-genome-profiling)
 
-+ Preprint: [LRSim: a Linked Reads Simulator generating insights for better genome partitioning](http://biorxiv.org/content/early/2017/01/26/103549)
