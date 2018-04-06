@@ -19,13 +19,12 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 
 # Recent News
+
++ Preprint:  [xAtlas: Scalable small variant calling across heterogeneous next-generation sequencing experiments](https://www.biorxiv.org/content/early/2018/04/05/295071)
+
++ Preprint:  [Detection of GBA missense mutations and other variants using the Oxford Nanopore MinION](https://www.biorxiv.org/content/early/2018/04/03/288068)
+
++ Published: [Piercing the dark matter: bioinformatics of long-range sequencing and mapping](https://www.nature.com/articles/s41576-018-0003-4?WT.feed_name=subjects_biological-sciences)
+
 + Published: [LRSim: a Linked Reads Simulator generating insights for better genome partitioning](http://www.sciencedirect.com/science/article/pii/S2001037017300855)
-
-+ Preprint: [Tools for annotation and comparison of structural variation](https://f1000research.com/articles/6-1795/v1)
-
-+ Preprint: [Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line](http://www.biorxiv.org/content/early/2017/08/10/174938)
-
-+ Preprint: [Accurate detection of complex structural variations using single molecule sequencing](http://www.biorxiv.org/content/early/2017/07/28/169557)
-
-+ Published: [GenomeScope: Fast reference-free genome profiling from short reads ](https://academic.oup.com/bioinformatics/article/3089939/GenomeScope-Fast-reference-free-genome-profiling)
 
