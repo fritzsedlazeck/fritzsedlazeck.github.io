@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Nijmegen, Netherlands",
-    51.84260195,
-    5.8385196119892
+    "Leiden, Netherlands",
+    52.1518157,
+    4.48110886662043
   ],
   [
     "Boston, USA",
@@ -78,6 +78,11 @@ var addressPoints = [
     "Doha, Qatar",
     25.2856329,
     51.5264162
+  ],
+  [
+    "Nijmegen, Netherlands",
+    51.84260195,
+    5.8385196119892
   ],
   [
     "San Francisco, California",
