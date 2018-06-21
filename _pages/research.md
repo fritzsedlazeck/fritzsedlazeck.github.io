@@ -66,5 +66,8 @@ High throughput sequencing (HTS) has become a standard method in molecular biolo
   Method to annotate SVs using gff, bed or other vcf files.
   [Github](https://github.com/fritzsedlazeck/SURVIVOR_ant){: .btn}
 
+### [11. SVCollector](https://github.com/fritzsedlazeck/SVCollector) 
+  Method to optimally select samples for validation and resequencing based on a multi sample VCF.
+  [Github](https://github.com/fritzsedlazeck/SVCollector){: .btn}
 
 {% include base_path %}
