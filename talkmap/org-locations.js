@@ -65,11 +65,6 @@ var addressPoints = [
     11.5753822
   ],
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728639
-  ],
-  [
     "Worcester, USA",
     42.2625932,
     -71.8022934
