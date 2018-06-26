@@ -56,10 +56,13 @@ Work experience
   * Duties included: Method development for NGS and SVs detection
   * Supervisor: Michael C. Schatz
 
-* 04/2017-present: <b>Lead Scientific Programmer</b>
+* 04/2017-04/2018: <b>Lead Scientific Programmer</b>
   * HGSC, Baylor College of Medicine
   * Duties included: Method development for NGS and SVs detection
 
+* 04/2018-present: <b>Assistant Professor</b>
+  * HGSC, Baylor College of Medicine
+  * Duties included: Method development for NGS and SVs detection
 
 Reviewing
 ======
