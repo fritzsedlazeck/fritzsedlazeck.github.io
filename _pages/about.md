@@ -20,6 +20,8 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 # Recent News
 
++ SMRT Grant: [We and Arne Noltes group won the GENEWIZ and PacBio plant and animal SMRT grant to sequence the first European cave fish.](https://t.co/nnHVZjdYhH)
+
 + Preprint:  [SVCollector: Optimized sample selection for validating and long-read resequencing of structural variants](https://www.biorxiv.org/content/early/2018/06/08/342386)
 
 + Preprint:  [Clairvoyante: a multi-task convolutional deep neural network for variant calling in Single Molecule Sequencing](https://www.biorxiv.org/content/early/2018/04/28/310458)
@@ -30,5 +32,4 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 + Preprint:  [Detection of GBA missense mutations and other variants using the Oxford Nanopore MinION](https://www.biorxiv.org/content/early/2018/04/03/288068)
 
-+ Published: [Piercing the dark matter: bioinformatics of long-range sequencing and mapping](https://www.nature.com/articles/s41576-018-0003-4?WT.feed_name=subjects_biological-sciences)
 
