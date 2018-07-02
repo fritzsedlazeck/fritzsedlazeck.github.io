@@ -20,6 +20,8 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 # Recent News
 
++ Published: [Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line](https://genome.cshlp.org/content/early/2018/06/28/gr.231100.117.abstract)
+
 + SMRT Grant: [We and Arne Noltes group won the GENEWIZ and PacBio plant and animal SMRT grant to sequence the first European cave fish.](https://t.co/nnHVZjdYhH)
 
 + Preprint:  [SVCollector: Optimized sample selection for validating and long-read resequencing of structural variants](https://www.biorxiv.org/content/early/2018/06/08/342386)
@@ -30,6 +32,6 @@ I welcome applications for a Computational Biology PostDoc, who is motivated and
 
 + Published: [Accurate detection of complex structural variations using single-molecule sequencing](https://www.nature.com/articles/s41592-018-0001-7)
 
-+ Preprint:  [Detection of GBA missense mutations and other variants using the Oxford Nanopore MinION](https://www.biorxiv.org/content/early/2018/04/03/288068)
+
 
 
