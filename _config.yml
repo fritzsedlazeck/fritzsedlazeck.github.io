@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Fritz Sedlazeck"
 description              : &description "Assistant Professor at the Human Genome Sequencing Center at Baylor College of Medicine"
 url                      : https://fritzsedlazeck.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://fritzsedlazeck.github.io/_people" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fritzsedlazeck/fritzsedlazeck.github.io"
 teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
