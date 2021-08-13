@@ -3,7 +3,7 @@ title: 'Medhat Mahmoud PostDoc'
 collection: people
 permalink: /people/medhat
 ---
-
+![medhat](/images/Fritz.JPG)
 # Research 
 
 Dr. Medhat Mahmoud completed his Ph.D. in 2018 in the group of Dr. Wojciech Karlowski  in the Department of Computational Biology at Adam Mickiewicz University and Dr. Tomasz Twardowski in the department of Protein Biosynthesis, Institute of Bioorganic Chemistry Polish Academy of Sciences,  in Poland. After his Ph.D., in 2018  he transitioned to the lab of Dr. Fritz Sedlazeck at Human Genome Sequencing Center, Baylor College of Medicine. His research focuses on developing algorithms and computational methods to detect and analyze genomic variations at scale with a focus on Structural Variations (SVs), Single Nucleotide Variations (SNVs), and methylations. Dr. Mahmoud has been involved in large-scale short and long-read projects (CCDG and All of US) to identify SVs and SNVs and study their impact on phenotypes as well as their association with diseases.
