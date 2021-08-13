@@ -1,22 +1,12 @@
 ---
 title: 'Medhat Mahmoud PostDoc'
 collection: people
-permalink: /people/Medhat_Mahmoud
+permalink: /people/medhat
 ---
 
 # Research 
 
-I am a computational Biologist focusing on method developing for sequencing applications.   
-In general, my interests focus on three key areas:  
-
-1. Sequence Analysis: 
-  * Method development to analyze Next Generation Sequencing (NGS) data
-  * Detection of Structural Variations
-  * Assessment of the variability of genomes 
-2. High performance computing: 
-  * Programming on GPU Graphics Cards (CUDA, OpenCL)
-  * Programming on CPUs (SSE, AVX)
-  * Programming on Grid Engine (SGE, Slurm) 
+Dr. Medhat Mahmoud completed his Ph.D. in 2018 in the group of Dr. Wojciech Karlowski  in the Department of Computational Biology at Adam Mickiewicz University and Dr. Tomasz Twardowski in the department of Protein Biosynthesis, Institute of Bioorganic Chemistry Polish Academy of Sciences,  in Poland. After his Ph.D., in 2018  he transitioned to the lab of Dr. Fritz Sedlazeck at Human Genome Sequencing Center, Baylor College of Medicine. His research focuses on developing algorithms and computational methods to detect and analyze genomic variations at scale with a focus on Structural Variations (SVs), Single Nucleotide Variations (SNVs), and methylations. Dr. Mahmoud has been involved in large-scale short and long-read projects (CCDG and All of US) to identify SVs and SNVs and study their impact on phenotypes as well as their association with diseases.
 
 {% include base_path %}
 
