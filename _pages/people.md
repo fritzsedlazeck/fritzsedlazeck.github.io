@@ -64,11 +64,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: left
-    image: farhang.png
-    content: people-farhang.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
+
 
   - align: left
     image: yilei.png
@@ -108,6 +104,13 @@ profiles:
   - align: left
     image: sina.png
     content: people-sina.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+
+  - align: left
+    image: farhang.png
+    content: people-farhang.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
