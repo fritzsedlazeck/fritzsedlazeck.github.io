@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /softwares/
+permalink: /software/
 title: Softwares
 description: 
 nav: true
