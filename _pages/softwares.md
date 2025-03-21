@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /software/
-title: Softwares
+title: Software
 description: 
 nav: true
 nav_order: 4
