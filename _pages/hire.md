@@ -4,7 +4,7 @@ permalink: /hire/
 title: Join us
 description: 
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 📌 **Position:** Computational Post-Doctoral Researcher  
