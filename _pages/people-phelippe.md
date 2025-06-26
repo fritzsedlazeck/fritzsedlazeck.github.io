@@ -1,6 +1,6 @@
 **Philippe Sanio, M.Sc.**
 
-Internship Student
+Ph.D. Candidate
 
 Email: philippe.sanio [at] bcm.edu
 
