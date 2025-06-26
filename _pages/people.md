@@ -75,14 +75,14 @@ profiles:
   - align: left
     image: ryan_cheng.jpeg
     content: people-siyuan.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 
 
   - align: left
     image: siyu.jpg
     content: people-siyu.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 
 
