@@ -56,3 +56,13 @@ a sentence
 
 ```
 
+# how to add people
+
+ask people to privde a picture, better chop it using https://crop-circle.imageonline.co/
+
+put it in the assets/img
+
+create a md doc at _pages/. You can duplicate one existing profile. modify it.
+
+go to _pages/people.md , duplicate one profile and modify it for new member.
+
