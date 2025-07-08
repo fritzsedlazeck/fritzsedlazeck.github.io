@@ -230,7 +230,7 @@
   number={12},
   pages={1050--1054},
   year={2016},
-  publisher={Nature Publishing Group US New York}
+  publisher={Nature Publishing Group}
 }
 
 
@@ -273,8 +273,8 @@
   author={Dolgalev, Igor and Sedlazeck, Fritz and Busby, Ben},
   journal={F1000Research},
   volume={6},
-  year={2017},
-  publisher={Faculty of 1000 Ltd}
+  pages={443},
+  year={2017}
 }
 
 
@@ -307,8 +307,8 @@
   author={Sedlazeck, Fritz J and Dhroso, Andi and Bodian, Dale L and Paschall, Justin and Hermes, Farrah and Zook, Justin M},
   journal={F1000Research},
   volume={6},
-  year={2017},
-  publisher={Faculty of 1000 Ltd}
+  pages={1795},
+  year={2017}
 }
 
 
@@ -519,13 +519,13 @@
 }
 
 
-@article{llamas2019strategy,
+@article{llamas2021strategy,
   title={A strategy for building and using a human reference pangenome},
   author={Llamas, Bastien and Narzisi, Giuseppe and Schneider, Valerie and Audano, Peter A and Biederstedt, Evan and Blauvelt, Lon and Bradbury, Peter and Chang, Xian and Chin, Chen-Shan and Fungtammasan, Arkarachai and others},
   journal={F1000Research},
   volume={8},
-  year={2019},
-  publisher={Faculty of 1000 Ltd}
+  pages={1751},
+  year={2021}
 }
 
 
@@ -1037,7 +1037,7 @@
 @article{mahmoud2021princess,
   title={PRINCESS: comprehensive detection of haplotype resolved SNVs, SVs, and methylation},
   author={Mahmoud, Medhat and Doddapaneni, Harshavardhan and Timp, Winston and Sedlazeck, Fritz J},
-  journal={Genome biology},
+  journal={Genome Biology},
   volume={22},
   pages={1--17},
   year={2021},
@@ -1186,7 +1186,7 @@
 @article{chen2024improved,
   title={Improved sequence mapping using a complete reference genome and lift-over},
   author={Chen, Nae-Chyun and Paulin, Luis F and Sedlazeck, Fritz J and Koren, Sergey and Phillippy, Adam M and Langmead, Ben},
-  journal={Nature Methods},
+  journal={Nature methods},
   volume={21},
   number={1},
   pages={41--49},
@@ -1212,15 +1212,15 @@
   author={Walker, Kimberly and Kalra, Divya and Lowdon, Rebecca and Chen, Guangyi and Molik, David and Soto, Daniela C and Dabbaghie, Fawaz and Al Khleifat, Ahmad and Mahmoud, Medhat and Paulin, Luis F and others},
   journal={F1000Research},
   volume={11},
-  year={2022},
-  publisher={Faculty of 1000 Ltd}
+  pages={530},
+  year={2022}
 }
 
 
 @article{chin2022pan,
   title={A pan-genome approach to decipher variants in the highly complex tandem repeat of LPA},
   author={Chin, Chen-Shan and Behera, Sairam and Metcalf, Ginger A and Gibbs, Richard A and Boerwinkle, Eric and Sedlazeck, Fritz J},
-  journal={bioRxiv},
+  journal={BioRxiv},
   pages={2022--06},
   year={2022},
   publisher={Cold Spring Harbor Laboratory}
@@ -1305,7 +1305,7 @@
 @article{kille2022multiple,
   title={Multiple genome alignment in the telomere-to-telomere assembly era},
   author={Kille, Bryce and Balaji, Advait and Sedlazeck, Fritz J and Nute, Michael and Treangen, Todd J},
-  journal={Genome Biology},
+  journal={Genome biology},
   volume={23},
   number={1},
   pages={182},
@@ -1328,7 +1328,7 @@
 @article{du2022multiple,
   title={The multiple de novo copy number variant (M dn CNV) phenomenon presents with peri-zygotic DNA mutational signatures and multilocus pathogenic variation},
   author={Du, Haowei and Jolly, Angad and Grochowski, Christopher M and Yuan, Bo and Dawood, Moez and Jhangiani, Shalini N and Li, He and Muzny, Donna and Fatih, Jawid M and Coban-Akdemir, Zeynep and others},
-  journal={Genome Medicine},
+  journal={Genome medicine},
   volume={14},
   number={1},
   pages={122},
@@ -1408,7 +1408,7 @@
 
 
 @article{dwarshuis2024stratomod,
-  title={StratoMod: predicting sequencing and variant calling errors with interpretable machine learning},
+  title={StratoMod: Predicting sequencing and variant calling errors with interpretable machine learning},
   author={Dwarshuis, Nathan and Tonner, Peter and Olson, Nathan D and Sedlazeck, Fritz J and Wagner, Justin and Zook, Justin M},
   journal={Communications Biology},
   volume={7},
@@ -1457,7 +1457,7 @@
 @article{mahmoud2024utility,
   title={Utility of long-read sequencing for All of Us},
   author={Mahmoud, Medhat and Huang, Yongqing and Garimella, Kiran and Audano, Peter A and Wan, Wan and Prasad, Nripesh and Handsaker, Robert E and Hall, Salina and Pionzio, Arianna and Schatz, Michael C and others},
-  journal={Nature communications},
+  journal={Nature Communications},
   volume={15},
   number={1},
   pages={837},
@@ -1481,16 +1481,16 @@
 @article{jun2023structural,
   title={Structural variation across 138,134 samples in the TOPMed consortium},
   author={Jun, Goo and English, Adam C and Metcalf, Ginger A and Yang, Jianzhi and Chaisson, Mark JP and Pankratz, Nathan and Menon, Vipin K and Salerno, William J and Krasheninina, Olga and Smith, Albert V and others},
-  journal={bioRxiv},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory Preprints}
+  journal={Research square},
+  pages={rs--3},
+  year={2023}
 }
 
 
 @article{behera2023fixitfelix,
   title={FixItFelix: improving genomic analysis by fixing reference errors},
   author={Behera, Sairam and LeFaive, Jonathon and Orchard, Peter and Mahmoud, Medhat and Paulin, Luis F and Farek, Jesse and Soto, Daniela C and Parker, Stephen CJ and Smith, Albert V and Dennis, Megan Y and others},
-  journal={Genome biology},
+  journal={Genome Biology},
   volume={24},
   number={1},
   pages={31},
@@ -1538,7 +1538,7 @@
 @article{behera2024identification,
   title={Identification of allele-specific KIV-2 repeats and impact on Lp (a) measurements for cardiovascular disease risk},
   author={Behera, Sairam and Belyeu, Jonathan R and Chen, Xiao and Paulin, Luis F and Nguyen, Ngoc Quynh H and Newman, Emma and Mahmoud, Medhat and Menon, Vipin K and Qi, Qibin and Joshi, Parag and others},
-  journal={BMC Medical Genomics},
+  journal={BMC medical genomics},
   volume={17},
   number={1},
   pages={255},
@@ -1550,7 +1550,7 @@
 @article{orantes2022frequent,
   title={Frequent spontaneous structural rearrangements promote rapid genome diversification in a Brassica napus F1 generation},
   author={Orantes-Bonilla, Mauricio and Makhoul, Manar and Lee, HueyTyng and Chawla, Harmeet Singh and Vollrath, Paul and Langstroff, Anna and Sedlazeck, Fritz J and Zou, Jun and Snowdon, Rod J},
-  journal={Frontiers in Plant Science},
+  journal={Frontiers in plant science},
   volume={13},
   pages={1057953},
   year={2022},
@@ -1611,7 +1611,7 @@
 @article{majidian2023genomic,
   title={Genomic variant benchmark: if you cannot measure it, you cannot improve it},
   author={Majidian, Sina and Agustinho, Daniel Paiva and Chin, Chen-Shan and Sedlazeck, Fritz J and Mahmoud, Medhat},
-  journal={Genome Biology},
+  journal={Genome biology},
   volume={24},
   number={1},
   pages={221},
@@ -1625,8 +1625,8 @@
   author={Mc Cartney, Ann M and Mahmoud, Medhat and Jochum, Michael and Agustinho, Daniel Paiva and Zorman, Barry and Al Khleifat, Ahmad and Dabbaghie, Fawaz and Kesharwani, Rupesh K and Smolka, Moritz and Dawood, Moez and others},
   journal={F1000Research},
   volume={10},
-  year={2021},
-  publisher={Faculty of 1000 Ltd}
+  pages={246},
+  year={2021}
 }
 
 
@@ -1643,7 +1643,7 @@
 @article{dwarshuis2024giab,
   title={The GIAB genomic stratifications resource for human reference genomes},
   author={Dwarshuis, Nathan and Kalra, Divya and McDaniel, Jennifer and Sanio, Philippe and Alvarez Jerez, Pilar and Jadhav, Bharati and Huang, Wenyu and Mondal, Rajarshi and Busby, Ben and Olson, Nathan D and others},
-  journal={Nature Communications},
+  journal={Nature communications},
   volume={15},
   number={1},
   pages={9029},
@@ -1652,13 +1652,15 @@
 }
 
 
-@article{wagner2023small,
+@article{wagner2025small,
   title={Small variant benchmark from a complete assembly of X and Y chromosomes},
-  author={Wagner, Justin and Olson, Nathan D and McDaniel, Jennifer and Harris, Lindsay and Pinto, Brendan J and Jaspez, David and Munoz-Barrera, Adrian and Rubio-Rodriguez, Luis A and Lorenzo-Salazar, Jose M and Flores, Carlos and others},
-  journal={bioRxiv},
-  pages={2023--10},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
+  author={Wagner, Justin and Olson, Nathan D and McDaniel, Jennifer and Harris, Lindsay and Pinto, Brendan J and J{\'a}spez, David and Mu{\~n}oz-Barrera, Adri{\'a}n and Rubio-Rodr{\'\i}guez, Luis A and Lorenzo-Salazar, Jos{\'e} M and Flores, Carlos and others},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={497},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 
 
@@ -1677,8 +1679,10 @@
 @article{dolzhenko2024characterization,
   title={Characterization and visualization of tandem repeats at genome scale},
   author={Dolzhenko, Egor and English, Adam and Dashnow, Harriet and De Sena Brandine, Guilherme and Mokveld, Tom and Rowell, William J and Karniski, Caitlin and Kronenberg, Zev and Danzi, Matt C and Cheung, Warren A and others},
-  journal={Nature Biotechnology},
-  pages={1--9},
+  journal={Nature biotechnology},
+  volume={42},
+  number={10},
+  pages={1606--1614},
   year={2024},
   publisher={Nature Publishing Group US New York}
 }
@@ -1688,7 +1692,9 @@
   title={Detection of mosaic and population-level structural variants with Sniffles2},
   author={Smolka, Moritz and Paulin, Luis F and Grochowski, Christopher M and Horner, Dominic W and Mahmoud, Medhat and Behera, Sairam and Kalef-Ezra, Ester and Gandhi, Mira and Hong, Karl and Pehlivan, Davut and others},
   journal={Nature biotechnology},
-  pages={1--10},
+  volume={42},
+  number={10},
+  pages={1571--1580},
   year={2024},
   publisher={Nature Publishing Group US New York}
 }
@@ -1716,15 +1722,6 @@
 }
 
 
-@article{gustafson2024nanopore,
-  title={Nanopore sequencing of 1000 Genomes Project samples to build a comprehensive catalog of human genetic variation},
-  author={Gustafson, Jonas A and Gibson, Sophia B and Damaraju, Nikhita and Zalusky, Miranda PG and Hoekzema, Kendra and Twesigomwe, David and Yang, Lei and Snead, Anthony A and Richmond, Phillip A and De Coster, Wouter and others},
-  journal={medRxiv},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory Preprints}
-}
-
-
 @inproceedings{dolzhenko2024shining,
   title={Shining light on the dark genome: accurate quantification of tandem repeats for translational and basic research},
   author={Dolzhenko, Egor and English, Adam and Dashnow, Harriet and Rowell, William and Kronenberg, Zev and Kasperaviciute, Dalia and Houlden, Henry and Sullivan, Roisin and Vandrovcova, Jana and Tucci, Arianna and others},
@@ -1737,11 +1734,10 @@
 
 
 @article{mahmoud2024closing,
-  title={Closing the gap: Solving complex medically relevant genes at scale},
+  title={Closing the gap: solving complex medically relevant genes at scale},
   author={Mahmoud, Medhat and Harting, John and Corbitt, Holly and Chen, Xiao and Jhangiani, Shalini N and Doddapaneni, Harsha and Meng, Qingchang and Han, Tina and Lambert, Christine and Zhang, Siyuan and others},
   journal={medRxiv},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory Preprints}
+  year={2024}
 }
 
 
@@ -1759,8 +1755,7 @@
   title={The benefit of a complete reference genome for cancer structural variant analysis},
   author={Paulin, Luis F and Fan, Jeremy and O’Neill, Kieran and Pleasance, Erin and Porter, Vanessa L and Jones, Steven JM and Sedlazeck, Fritz J},
   journal={medRxiv},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory Preprints}
+  year={2024}
 }
 
 
@@ -1777,8 +1772,10 @@
 @article{agustinho2024unveiling,
   title={Unveiling microbial diversity: harnessing long-read sequencing technology},
   author={Agustinho, Daniel P and Fu, Yilei and Menon, Vipin K and Metcalf, Ginger A and Treangen, Todd J and Sedlazeck, Fritz J},
-  journal={Nature Methods},
-  pages={1--13},
+  journal={Nature methods},
+  volume={21},
+  number={6},
+  pages={954--966},
   year={2024},
   publisher={Nature Publishing Group US New York}
 }
@@ -1786,7 +1783,7 @@
 
 @article{bilgrav2024mind,
   title={Mind the gap: the relevance of the genome reference to resolve rare and pathogenic inversions},
-  author={Bilgrav Saethe, Kristine and Eisfeldt, Jesper and Bengtsson, Jesse and Lun, Ming Yin and Grochowski, Christopher Michael and Mahmoud, Medhat and Chao, Hsiao-Tuan and Rosenfeld, Jill and Liu, Pengfei and Schuy, Jakob and others},
+  author={Bilgrav Saether, Kristine and Eisfeldt, Jesper and Bengtsson, Jesse and Lun, Ming Yin and Grochowski, Christopher M and Mahmoud, Medhat and Chao, Hsiao-Tuan and Rosenfeld, Jill A and Liu, Pengfei and Schuy, Jakob and others},
   journal={medRxiv},
   pages={2024--04},
   year={2024},
@@ -1797,7 +1794,7 @@
 @article{pfeifer2024novo,
   title={De Novo Genome Assembly for the Coppery Titi Monkey (Plecturocebus cupreus): An Emerging Nonhuman Primate Model for Behavioral Research},
   author={Pfeifer, Susanne P and Baxter, Alexander and Savidge, Logan E and Sedlazeck, Fritz J and Bales, Karen L},
-  journal={Genome Biology and Evolution},
+  journal={Genome biology and evolution},
   volume={16},
   number={5},
   pages={evae108},
@@ -1822,6 +1819,8 @@
   title={Inverted triplications formed by iterative template switches generate structural variant diversity at genomic disorder loci},
   author={Grochowski, Christopher M and Bengtsson, Jesse D and Du, Haowei and Gandhi, Mira and Lun, Ming Yin and Mehaffey, Michele G and Park, KyungHee and H{\"o}ps, Wolfram and Benito, Eva and Hasenfeld, Patrick and others},
   journal={Cell Genomics},
+  volume={4},
+  number={7},
   year={2024},
   publisher={Elsevier}
 }
@@ -1894,11 +1893,15 @@
 }
 
 
-@article{bhamidipati2024complete,
-  title={Complete Genomic Characterization of Global Pathogens, Respiratory Syncytial Virus (RSV), and Human Norovirus (HuNoV) Using Probe-based Capture Enrichment},
+@article{bhamidipati2025complete,
+  title={Complete genomic characterization of global pathogens respiratory syntical virus and human norovirus using probe based capture enrichment},
   author={Bhamidipati, Sravya V and Surathu, Anil and Chao, Hsu and Agustinho, Daniel P and Xiang, Qin and Kottapalli, Kavya and Santhanam, Abirami and Momin, Zeineen and Walker, Kimberly and Menon, Vipin K and others},
-  journal={bioRxiv},
-  year={2024}
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={20526},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 
 
@@ -1945,7 +1948,7 @@
 @article{ndiaye2024less,
   title={When less is more: sketching with minimizers in genomics},
   author={Ndiaye, Malick and Prieto-Ba{\~n}os, Silvia and Fitzgerald, Lucy M and Yazdizadeh Kharrazi, Ali and Oreshkov, Sergey and Dessimoz, Christophe and Sedlazeck, Fritz J and Glover, Natasha and Majidian, Sina},
-  journal={Genome Biology},
+  journal={Genome biology},
   volume={25},
   number={1},
   pages={270},
@@ -1974,31 +1977,21 @@
 }
 
 
-@article{english2024k,
+@article{english2025k,
   title={K-mer analysis of long-read alignment pileups for structural variant genotyping},
   author={English, Adam C and Cunial, Fabio and Metcalf, Ginger A and Gibbs, Richard A and Sedlazeck, Fritz J},
-  journal={bioRxiv},
-  pages={2024--10},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
-}
-
-
-@article{saether2024leveraging,
-  title={Leveraging the T2T assembly to resolve rare and pathogenic inversions in reference genome gaps},
-  author={Saether, Kristine Bilgrav and Eisfeldt, Jesper and Bengtsson, Jesse D and Lun, Ming Yin and Grochowski, Christopher M and Mahmoud, Medhat and Chao, Hsiao-Tuan and Rosenfeld, Jill A and Liu, Pengfei and Ek, Marlene and others},
-  journal={Genome Research},
-  volume={34},
-  number={11},
-  pages={1785--1797},
-  year={2024},
-  publisher={Cold Spring Harbor Lab}
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={3218},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 
 
 @article{arres2024assessing,
   title={Assessing the readiness of Oxford Nanopore sequencing for clinical genomics applications},
-  author={Arres, Judith and Elavalli, Santosh and Behl, Shalini and Matias Sanchez, Daniel and Al Ali, Ayesha and Ahmed Yehia Abdelaziz Saad, Abdelrahman and Attia, Azza and Minas, Cyla and Pariyachery, Sharika and Ahmed, Shariq and others},
+  author={Arres, Judith and Elavalli, Santosh and Behl, Shalini and Matias Sanchez, Daniel and Ali, Ayesha Al and Ahmed Yehia Abdelaziz Saad, Abdelrahman and Attia, Azza and Minas, Cyla and Pariyachery, Sharika and Ahmed, Shariq and others},
   journal={medRxiv},
   pages={2024--10},
   year={2024},
@@ -2008,11 +2001,246 @@
 
 @article{izydorczyk2024single,
   title={Single cell long read whole genome sequencing reveals somatic transposon activity in human brain},
-  author={Izydorczyk, Michal B and Kalef-Ezra, Ester and Horner, Dominic and Zheng, Xinchang and Holmes, Nadine and Toffoli, Marco and Sahin, Zeliha G and Han, Yi and Mehta, Heer H and Muzny, Donna M and others},
+  author={Izydorczyk, Michal B and Kalef-Ezra, Ester and Horner, Dominic W and Zheng, Xinchang and Holmes, Nadine and Toffoli, Marco and Sahin, Zeliha Gozde and Han, Yi and Mehta, Heer H and Muzny, Donna M and others},
   journal={medRxiv},
   pages={2024--11},
   year={2024},
   publisher={Cold Spring Harbor Laboratory Press}
+}
+
+
+@article{zheng2025clair3,
+  title={Clair3-RNA: A deep learning-based small variant caller for long-read RNA sequencing data},
+  author={Zheng, Zhenxian and Yu, Xian and Chen, Lei and Lee, Yan-Lam and Xin, Cheng and Wong, Angel On Ki and Jain, Miten and Kesharwani, Rupesh K and Sedlazeck, Fritz J and Luo, Ruibang},
+  journal={bioRxiv},
+  pages={2024--11},
+  year={2025}
+}
+
+
+@misc{conesa2024revolutionizing,
+  title={Revolutionizing genomics and medicine—one long molecule at a time},
+  author={Conesa, Ana and Hoischen, Alexander and Sedlazeck, Fritz J},
+  journal={Genome Research},
+  volume={34},
+  number={11},
+  pages={ix--xi},
+  year={2024},
+  publisher={Cold Spring Harbor Lab}
+}
+
+
+@article{pehlivan2024structural,
+  title={Structural variant allelic heterogeneity in MECP2 duplication syndrome provides insight into clinical severity and variability of disease expression},
+  author={Pehlivan, Davut and Bengtsson, Jesse D and Bajikar, Sameer S and Grochowski, Christopher M and Lun, Ming Yin and Gandhi, Mira and Jolly, Angad and Trostle, Alexander J and Harris, Holly K and Suter, Bernhard and others},
+  journal={Genome medicine},
+  volume={16},
+  number={1},
+  pages={146},
+  year={2024},
+  publisher={BioMed Central London}
+}
+
+
+@article{billingsley2024long,
+  title={Long-read sequencing of hundreds of diverse brains provides insight into the impact of structural variation on gene expression and DNA methylation},
+  author={Billingsley, Kimberley J and Meredith, Melissa and Daida, Kensuke and Jerez, Pilar Alvarez and Negi, Shloka and Malik, Laksh and Genner, Rylee M and Moller, Abraham and Zheng, Xinchang and Gibson, Sophia B and others},
+  journal={bioRxiv},
+  year={2024}
+}
+
+
+@article{dawood2024gregor,
+  title={GREGoR: Accelerating Genomics for Rare Diseases},
+  author={Dawood, Moez and Heavner, Ben and Wheeler, Marsha M and Ungar, Rachel A and LoTempio, Jonathan and Wiel, Laurens and Berger, Seth and Bernstein, Jonathan A and Chong, Jessica X and D{\'e}lot, Emmanu{\`e}le C and others},
+  journal={ArXiv},
+  pages={arXiv--2412},
+  year={2024}
+}
+
+
+@article{gong2025long,
+  title={Long-read sequencing of 945 Han individuals identifies structural variants associated with phenotypic diversity and disease susceptibility},
+  author={Gong, Jiao and Sun, Huiru and Wang, Kaiyuan and Zhao, Yanhui and Huang, Yechao and Chen, Qinsheng and Qiao, Hui and Gao, Yang and Zhao, Jialin and Ling, Yunchao and others},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={1494},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+@article{zhu2025vacmap,
+  title={VACmap: An Accurate Long-Read Aligner for Unraveling Complex Genomic Rearrangements},
+  author={Zhu, Shanfeng and Ding, Hongyu and Sedlazeck, Fritz and Proukakis, Christos and Morley, Caoimhe and Toffoli, Marco and Schapira, Anthony and Liao, Zhirui and Pu, Lianrong},
+  year={2025}
+}
+
+
+@article{smolka2024publisher,
+  title={Publisher Correction: Detection of mosaic and population-level structural variants with Sniffles2},
+  author={Smolka, Moritz and Paulin, Luis F and Grochowski, Christopher M and Horner, Dominic W and Mahmoud, Medhat and Behera, Sairam and Kalef-Ezra, Ester and Gandhi, Mira and Hong, Karl and Pehlivan, Davut and others},
+  journal={Nature Biotechnology},
+  volume={42},
+  number={10},
+  pages={1616},
+  year={2024}
+}
+
+
+@inproceedings{barnett2023integrated,
+  title={Integrated heteroduplex correction in PacBio's circular consensus algorithm},
+  author={Barnett, Derek and Harting, John and Lee, Walter and Topfer, Armin and Sedlazeck, Fritz and Ekholm, Jenny and Gonzaludo, Nina and Blethrow, Justin and Drake, James and Kronenberg, Zev},
+  booktitle={EUROPEAN JOURNAL OF HUMAN GENETICS},
+  volume={31},
+  pages={582--583},
+  year={2023},
+  organization={SPRINGERNATURE CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND}
+}
+
+
+@inproceedings{pehlivan2023resolving,
+  title={Resolving the genomic architecture of MECP2 Duplication Syndrome unravels genotype-phenotype correlations and paves the way for personalized medicine},
+  author={Pehlivan, D and Bengtsson, J and Bajikar, S and Grochowski, CM and Suter, B and Gandhi, M and Du, H and Fatih, JM and Lun, MY and Sedlazeck, FJ and others},
+  booktitle={ANNALS OF NEUROLOGY},
+  volume={94},
+  pages={S143--S143},
+  year={2023},
+  organization={WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA}
+}
+
+
+@article{smolka2024detection,
+  title={Detection of mosaic and population-level structural variants with Sniffles2 (vol 42, pg 1571, 2024)},
+  author={Smolka, Moritz and Paulin, Luis F and Grochowski, Christopher M and Horner, Dominic W and Mahmoud, Medhat and Behera, Sairam and Kalef-Ezra, Ester and Gandhi, Mira and Hong, Karl and Pehlivan, Davut and others},
+  journal={Nature biotechnology},
+  volume={42},
+  number={10},
+  pages={1616--1616},
+  year={2024},
+  publisher={NATURE PORTFOLIO HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY}
+}
+
+
+@inproceedings{pehlivan2025insight,
+  title={Insight into MECP2 Duplication Syndrome: Unraveling Disease Severity and Expression Variability using Multiomics and Deep Phenotyping},
+  author={Pehlivan, D and Bengtsson, JD and Bajikar, SS and Grochowski, CM and Lun, MY and Harris, HK and Suter, B and Aras, S and Ramocki, MB and Abdelmoity, AT and others},
+  booktitle={ANNALS OF NEUROLOGY},
+  volume={96},
+  pages={S22--S22},
+  year={2025},
+  organization={WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA}
+}
+
+
+@article{paulin2025closing,
+  title={Closing the gaps, and improving somatic structural variant analysis and benchmarking using CHM13-T2T},
+  author={Paulin, Luis F and Fan, Jeremy and O'Neill, Kieran and Pleasance, Erin and Porter, Vanessa L and Jones, Steven JM and Sedlazeck, Fritz J},
+  journal={Genome Research},
+  volume={35},
+  number={4},
+  pages={621--631},
+  year={2025},
+  publisher={Cold Spring Harbor Lab}
+}
+
+
+@article{li2025unraveling,
+  title={Unraveling the hidden complexity of cancer through long-read sequencing},
+  author={Li, Qiuhui and Keskus, Ayse G and Wagner, Justin and Izydorczyk, Michal B and Timp, Winston and Sedlazeck, Fritz J and Klein, Alison P and Zook, Justin M and Kolmogorov, Mikhail and Schatz, Michael C},
+  journal={Genome research},
+  volume={35},
+  number={4},
+  pages={599--620},
+  year={2025},
+  publisher={Cold Spring Harbor Lab}
+}
+
+
+@article{eberle2022comprehensive,
+  title={Comprehensive short and long read sequencing analysis for the Gaucher and Parkinson's disease-associated GBA gene.},
+  author={Eberle, M and Proukakis, C and Toffoli, M and Chen, X and Sedlazeck, F and Lee, C and Mullin, S and Higgins, A and Koletsi, S},
+  year={2022}
+}
+
+
+@article{fu2025computational,
+  title={Computational analysis of DNA methylation from long-read sequencing},
+  author={Fu, Yilei and Timp, Winston and Sedlazeck, Fritz J},
+  journal={Nature Reviews Genetics},
+  pages={1--15},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+@misc{conesa2025long,
+  title={Long reads decipher genomes and transcriptomes and offer novel insights into biology and diseases},
+  author={Conesa, Ana and Hoischen, Alexander and Sedlazeck, Fritz J},
+  journal={Genome Research},
+  volume={35},
+  number={4},
+  pages={xi--xiv},
+  year={2025},
+  publisher={Cold Spring Harbor Lab}
+}
+
+
+@article{mahmoud2025hitchhiker,
+  title={A Hitchhiker's Guide to long-read genomic analysis},
+  author={Mahmoud, Medhat and Agustinho, Daniel P and Sedlazeck, Fritz J},
+  journal={Genome Research},
+  volume={35},
+  number={4},
+  pages={545--558},
+  year={2025},
+  publisher={Cold Spring Harbor Lab}
+}
+
+
+@article{turan2024identifying,
+  title={Identifying the role of somatic copy number variations in Parkinson's disease using single-cell whole genome sequencing},
+  author={Turan, Zeliha Gozde and Kalef-Ezra, Ester and Horner, Dominic and Morley, Caoimhe and Rodriguez, Diego-Perez and Jaunmuktane, Zane and Demeulemeester, Jonas and Sedlazeck, Fritz and Proukakis, Christos},
+  journal={European Journal Of Human Genetics},
+  volume={32},
+  pages={1574--1574},
+  year={2024},
+  publisher={Springer Nature [academic journals on nature. com]}
+}
+
+
+@inproceedings{izydorczyk2024somatic,
+  title={Somatic variations of brain tissue and their role in Multiple system atrophy.},
+  author={Izydorczyk, Michal and Sedlazeck, Fritz and Proukakis, Christos and Kalef-Ezra, Ester and Horner, Dominic and Morley, Caoimhe and Toffoli, Marco and Holmes, Nadine},
+  booktitle={EUROPEAN JOURNAL OF HUMAN GENETICS},
+  volume={32},
+  pages={1469--1470},
+  year={2024},
+  organization={SPRINGERNATURE CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND}
+}
+
+
+@inproceedings{pehlivan2024multiomics,
+  title={Multiomics and deep phenotyping in MECP2 Duplication Syndrome: Insight into disease severity, expression variability, and nucleic acid therapeutics},
+  author={Pehlivan, Davut and Bentsson, Jesse and Bajikar, Sameer and Grochowski, Christopher M and Lun, Ming Yin and Gandhi, Mira and Jolly, Angad and Harris, Holly and Suter, Bernhard and Aras, Sukru and others},
+  booktitle={EUROPEAN JOURNAL OF HUMAN GENETICS},
+  volume={32},
+  pages={810--810},
+  year={2024},
+  organization={SPRINGERNATURE CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND}
+}
+
+
+@article{chen2025global,
+  title={Global DNA methylation differences involving germline structural variation impact gene expression in pediatric brain tumors},
+  author={Chen, Fengju and Zhang, Yiqun and Li, Wei and Sedlazeck, Fritz J and Shen, Lanlan and Creighton, Chad J},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={1--17},
+  year={2025},
+  publisher={Nature Publishing Group}
 }
 
 
@@ -2025,16 +2253,6 @@
   pages={1357--1357},
   year={2020},
   publisher={NATURE PORTFOLIO HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY}
-}
-
-
-@article{zheng2024clair3,
-  title={Clair3-RNA: A deep learning-based small variant caller for long-read RNA sequencing data},
-  author={Zheng, Zhenxian and Yu, Xian and Chen, Lei and Lee, Yan-Lam and Xin, Cheng and Wong, Angel On Ki and Jain, Miten and Kesharwani, Rupesh K and Sedlazeck, Fritz J and Luo, Ruibang},
-  journal={bioRxiv},
-  pages={2024--11},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
 }
 
 
