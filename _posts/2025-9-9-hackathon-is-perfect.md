@@ -1,8 +1,8 @@
 ---
 layout: post
-title: SV Hackathon 2025
-date: 2025-03-24
-description: Hackathon, Strctural Variation
+title: The 2025 Structural Variation Hackathon, Science, Code, and a Lot of Coffee
+date: 2025-09-09
+description: Hackathon, Structural Variation
 tags: Hackathon
 categories: Events
 tabs: true
