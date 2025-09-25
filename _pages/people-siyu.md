@@ -1,4 +1,4 @@
-**Siyu Wang**
+**Siyu Wang, M.Sc.**
 
 Ph.D. Candidate
 
