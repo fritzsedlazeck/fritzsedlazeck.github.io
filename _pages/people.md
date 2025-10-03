@@ -85,15 +85,17 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: 
 
-
   - align: left
     image: Archit_headshot.png
     content: people-archit.md
     image_circular: true # crops the image to make it circular
     more_info: 
 
-
-
+  - align: left
+    image: winston_zhou.png
+    content: people-winston-zhou.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
 
   - align: left
     image: 
