@@ -9,7 +9,6 @@ tabs: true
 ---
 
 
-
 From August 27–29, the 7th Structural Variation Hackathon brought together a truly global crowd of computational biologists, geneticists, and software developers. People joined from every continent (yes, even that one 🐧), with 162 registered, 130 admitted, and around 100 brave souls actively hacking their way through three days of data, code, and collaboration.
 
 {% include figure.liquid loading="eager" path="assets/img/hackathon2025-map.png" class="img-fluid rounded z-depth-1" %}
@@ -29,6 +28,7 @@ From August 27–29, the 7th Structural Variation Hackathon brought together a t
 * Haploblock recombination analysis
 * Long-read methylation evaluation
 * Transposable element annotation
+* Long-read metagenome
 
 Every team walked away with prototype tools, benchmarks, or workflows — some polished, some duct-taped, all moving the field forward.
 
