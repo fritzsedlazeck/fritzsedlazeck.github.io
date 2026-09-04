@@ -98,6 +98,13 @@ profiles:
     more_info: 
 
   - align: left
+    image: henry.png
+    content: people-henry.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+
+  - align: left
     image: 
     content: people-alumini-line.md
     image_circular: false # crops the image to make it circular
