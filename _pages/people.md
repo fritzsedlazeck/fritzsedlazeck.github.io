@@ -102,6 +102,12 @@ profiles:
     content: people-henry.md
     image_circular: true # crops the image to make it circular
     more_info: 
+
+  - align: left
+    image: guangya.png
+    content: people-guangya.md
+    image_circular: true # crops the image to make it circular
+    more_info:
     
 
   - align: left
